@@ -1,5 +1,9 @@
 # Team Profile Generator
 
+## Functionality Video 
+
+[Team Profile Generator Video](https://youtu.be/ih-zjr8Fabs)
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
