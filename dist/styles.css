@@ -1,0 +1,21 @@
+.header {
+    background-color: #Ff91a4;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+.cards {
+    justify-content: space-around;
+}
+.card {
+    box-shadow: 6px 6px 3px lightgray;
+    margin-bottom: 20px;
+}
+.card-header {
+    background-color: rgb(49, 120, 227);
+    color: white;
+}
+i {
+    padding-right: 10px;
+}
